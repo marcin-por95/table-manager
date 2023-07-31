@@ -1,0 +1,12 @@
+{
+  "tables": [
+    {
+      "id": "LLkVv17md",
+      "tableNumber": "1",
+      "status": "Busy",
+      "peopleAmount": 1,
+      "maxPeopleAmount": 1,
+      "bill": 1
+    }
+  ]
+}
